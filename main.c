@@ -7,5 +7,6 @@ printf("hello %d\n",i);
 printf("world %d\n",i+1);
 printf("something %d\n",i-1);
 printf("linia");
+printf("new");
 }
 }
